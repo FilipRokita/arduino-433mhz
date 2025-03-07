@@ -70,5 +70,7 @@ Pull requests and suggestions are welcome! If you encounter issues, feel free to
 ## 📬 Contact
 If you have any questions, reach out via GitHub Issues or discussions. 🚀
 
+---
+
 ## Author
 [Filip Rokita](https://www.filiprokita.com/)
