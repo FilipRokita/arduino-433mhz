@@ -58,7 +58,7 @@ If no signal appears, check:
 ---
 
 ## 📜 License
-This project is open-source and licensed under the **MIT License**.
+This project is open-source and licensed under the [**MIT License**](LICENSE).
 
 ---
 
@@ -71,4 +71,4 @@ Pull requests and suggestions are welcome! If you encounter issues, feel free to
 If you have any questions, reach out via GitHub Issues or discussions. 🚀
 
 ## Author
-(Filip Rokita)[https://www.filiprokita.com/]
+[Filip Rokita](https://www.filiprokita.com/)
